@@ -1,0 +1,22 @@
+version: '3.3'
+
+services:
+  game1:
+    container_name: game1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '8080:8080'
+    volumes:
+      - .:/app
+
+  game2:
+    container_name: game2
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '8081:8080'
+    volumes:
+      - .:/app
