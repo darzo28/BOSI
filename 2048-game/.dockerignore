@@ -1,5 +1,0 @@
-**/*.md
-**/*.bat
-**/.dockerignore
-**/Dockerfile*
-**/docker-compose*.yml
