@@ -6,7 +6,7 @@ title: CV
 Женщина, 25 лет, родилась 28 сентября 1999
 
 [+7 (953) 375-95-00](tel:+79533759500)
-[darya.ches42@gmail.com](mailto:darya.ches42@gmail.com) - предпочитаемый способ связи
+[darya.ches42@gmail.com](mailto:darya.ches42@gmail.com)
 [https://t.me/Nikamong](https://t.me/Nikamong) - предпочитаемый способ связи
 
 Проживает: Йошкар-Ола
