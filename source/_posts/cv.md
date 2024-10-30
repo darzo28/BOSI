@@ -3,14 +3,14 @@ title: CV
 date: 2024-10-30
 -----------
 
-## Чеканова Дарья 
-Женщина, 25 лет, родилась 28 сентября 1999
+## Jane Doe 
+Женщина, N лет, родилась 1 января 1970
 
-[+7 (953) 375-95-00](tel:+79533759500)
-[darya.ches42@gmail.com](mailto:darya.ches42@gmail.com)
-[https://t.me/Nikamong](https://t.me/Nikamong) - предпочитаемый способ связи
+[+8 (800) 535-35-35](tel:+78005353535)
+[jane.doe@gmail.com](mailto:jane.doe@gmail.com)
+[https://t.me/JaneDoe](https://t.me/JaneDoe) - предпочитаемый способ связи
 
-Проживает: Йошкар-Ола
+Проживает: город N
 Гражданство: Россия
 Не готова к переезду, не готова к командировкам
 
@@ -74,8 +74,8 @@ iSpring
 
 ### Навыки
 **Знание языков**
-Русский ? Родной
-Английский ? B1 ? Средний
+Русский - Родной
+Английский - B1 - Средний
 **Навыки**
 C/C++; Python; БЭМ; SOLID; ООП; JavaScript; Node.js; Gulp; PostgreSQL; Git; TypeScript; PhpStorm; HTML5; Sass; CSS3; npm; Webpack; Умение разбираться в чужом коде; Умение работать в команде; MS Visual Studio; Кроссбраузерная верстка; React; REST API; Unit Testing; Angular; C#; Miro; Docker; Figma
 
